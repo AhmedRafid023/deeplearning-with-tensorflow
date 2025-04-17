@@ -27,7 +27,7 @@ This repository contains a deep learning-based computer vision project implement
 - Optimizer: [e.g., Adam, SGD]
 - Evaluation Metrics: [e.g., Accuracy, IoU]
 
-## 🛠️ Installation
+
 
 
 
